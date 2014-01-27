@@ -1,4 +1,0 @@
-account
-=======
-
-EE Project - Account
